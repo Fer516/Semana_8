@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\bin\Debug\Ejercicio1_Semana8.exe.config
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\bin\Debug\Ejercicio1_Semana8.exe
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\bin\Debug\Ejercicio1_Semana8.pdb
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.Form1.resources
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.exe
+C:\Users\MINEDUCYT\source\repos\Ejercicio1_Semana8\Ejercicio1_Semana8\obj\Debug\Ejercicio1_Semana8.pdb
